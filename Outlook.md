@@ -1,3 +1,5 @@
+# Remove Email profile
+Control Panel > Email
 # Disable Abobe Link attach file
 File > Options<br>
 Left side bar: Add-in<br>
